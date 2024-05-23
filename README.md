@@ -4,7 +4,11 @@
 
 
 
-## Hi there 👋
+## Hi there 👋 ，我是 LEstevalor
+
+- 个人履历：24届腾讯IEG SRE工程师
+- 年龄经历：03年，1年+大厂实习经历
+- 技术栈：Python，Django，Go，K8S ...
 
 <!--
 **LEstevalor/LEstevalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
