@@ -1,5 +1,8 @@
 
 
+![github profile](./github profile.gif)
+
+
 
 ## Hi there 👋
 
