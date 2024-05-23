@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github profile.gif" style="width: 80%;" />
+  <img src="./github profile.gif" style="width: 100%;" />
 </div>
 
 
