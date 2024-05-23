@@ -1,6 +1,7 @@
+<div align="center">
+  <img src="./github profile.gif" style="width: 80%;" />
+</div>
 
-
-![github profile](./github profile.gif)
 
 
 
