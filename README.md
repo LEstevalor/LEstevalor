@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Working Condition
+[![LEstevalor's GitHub | Languages Over Time](https://stats.quine.sh/LEstevalor/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=LEstevalor)
