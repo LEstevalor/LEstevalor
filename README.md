@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
   <img src="./github profile.gif" style="width: 100%;" />
-</div>
+</p>
 
-
+  
 
 ## Hi there 👋 ，我是 LEstevalor
 
