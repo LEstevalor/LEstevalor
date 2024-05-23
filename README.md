@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./github_profile.gif" style="width: 100%;" />
-</p>
-
-  
+![github_profile](./github_profile.gif)
 
 ## Hi there 👋 ，我是 LEstevalor
 
